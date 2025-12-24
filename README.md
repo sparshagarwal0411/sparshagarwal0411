@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sparshagarwal0411/](https://www.linkedin.com/in/sparshagarwal0411/)
 
-- ⚡ Two Words **striaght up**
+- ⚡ Two Words: **striaght up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
