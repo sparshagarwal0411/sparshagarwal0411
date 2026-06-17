@@ -43,7 +43,7 @@ AI-powered LinkedIn profile analysis.
 
 My complete project showcase.
 
-🔗 https://brainstormersparsh.netlify.app/
+🔗 https://sparshagarwal.vercel.app/
 
 ---
 
