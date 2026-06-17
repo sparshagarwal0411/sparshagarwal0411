@@ -1,40 +1,124 @@
-<h1 align="center">Hi 👋, I'm Sparsh Agarwal</h1>
-<h3 align="center">A passionate developer from India.</h3>
+# <div align="center">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshagarwal0411&label=Profile%20views&color=0e75b6&style=flat" alt="sparshagarwal0411" /> </p> -->
+# Hi 👋 I'm Sparsh Agarwal
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparshagarwal0411" alt="sparshagarwal0411" /></a> </p> -->
+### AI Developer • Flutter Developer • Problem Solver 🇮🇳
 
-- 🔭 I’m currently working on [WomenPreneur](https://women-4.vercel.app/)
+Building products that combine AI, mobile apps and real-world impact.
 
-- 🌱 I’m currently learning **pytorch**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=googlechrome)](https://brainstormersparsh.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sparshagarwal0411)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:sparshagarwal@gmail.com)
 
-- 👯 I’m looking to collaborate on [LinkedIn Profile Reviewer](https://linkedin-profile-reviewer-sigma.vercel.app/)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://brainstormersparsh.netlify.app/](https://brainstormersparsh.netlify.app/)
+---
 
-- 💬 Ask me about **python and flutter**
+## 🚀 About Me
 
-- 📫 How to reach me **sparshagarwal@gmail.com**
+* 🔭 Currently building **WomenPreneur**
+* 🌱 Learning **PyTorch, Agentic AI and Deep Learning**
+* 👯 Open to collaborating on **AI-powered products and developer tools**
+* 💻 Strong interests in **Python, Flutter and AI**
+* 🏆 Active hackathon participant
+* ⚡ Motto: **Straight Up**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sparshagarwal0411/](https://www.linkedin.com/in/sparshagarwal0411/)
+---
 
-- ⚡ Two Words: **striaght up**
+## 🌟 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sparshagarwal0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparshagarwal0411" height="30" width="40" /></a>
-<a href="https://kaggle.com/sparshagarwal0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sparshagarwal0411" height="30" width="40" /></a>
-<a href="https://instagram.com/sparshagarwal0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sparshagarwal0411" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/w8wg106gm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="w8wg106gm0" height="30" width="40" /></a>
+### 🔹 WomenPreneur
+
+An initiative empowering women through technology.
+
+🔗 https://women-4.vercel.app/
+
+### 🔹 LinkedIn Profile Reviewer
+
+AI-powered LinkedIn profile analysis.
+
+🔗 https://linkedin-profile-reviewer-sigma.vercel.app/
+
+### 🔹 Portfolio Website
+
+My complete project showcase.
+
+🔗 https://brainstormersparsh.netlify.app/
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+
+### Frontend
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Mobile
+
+![Flutter](https://skillicons.dev/icons?i=flutter)
+
+### AI & Data
+
+![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
+![Pytorch](https://skillicons.dev/icons?i=pytorch)
+![Pandas](https://skillicons.dev/icons?i=py)
+
+### Databases & Tools
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Git](https://skillicons.dev/icons?i=git)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sparshagarwal0411">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/sparshagarwal0411">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://kaggle.com/sparshagarwal0411">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+<a href="https://leetcode.com/w8wg106gm0">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshagarwal0411&show_icons=true&locale=en&layout=compact" alt="sparshagarwal0411" /></p>
+## 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshagarwal0411&show_icons=true&locale=en" alt="sparshagarwal0411" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparshagarwal0411&" alt="sparshagarwal0411" /></p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sparshagarwal0411&show_icons=true&theme=tokyonight"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshagarwal0411&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=sparshagarwal0411&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Building AI that solves real problems
+
+</div>
