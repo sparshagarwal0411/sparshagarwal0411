@@ -6,7 +6,7 @@
 
 Building products that combine AI, mobile apps and real-world impact.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=googlechrome)](https://brainstormersparsh.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=googlechrome)](https://sparshagarwal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sparshagarwal0411)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:sparshagarwal@gmail.com)
 
